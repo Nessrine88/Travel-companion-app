@@ -31,7 +31,7 @@ const Header = () => {
                     borderRadius: '4px',
                     padding: '8px',
                     width: '300px',
-                  }}
+                  }}  
                 />
               </div>
             </Autocomplete>
